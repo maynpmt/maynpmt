@@ -20,7 +20,7 @@
 
 |  |   |  | | |||
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js"/> <br />Javascipt |  <img src="https://skillicons.dev/icons?i=py"/> <br />Python | <img src="https://skillicons.dev/icons?i=go"/><br />Golang| <img src="https://skillicons.dev/icons?i=express"/><br />Express.js | <img src="https://skillicons.dev/icons?i=nodejs"/><br />Node.js|  <img src="https://skillicons.dev/icons?i=c"/><br />C | <img src="https://skillicons.dev/icons?i=cpp"/><br />C++|
+| <img src="https://skillicons.dev/icons?i=js"/> <br />Javascript |  <img src="https://skillicons.dev/icons?i=py"/> <br />Python | <img src="https://skillicons.dev/icons?i=go"/><br />Golang| <img src="https://skillicons.dev/icons?i=express"/><br />Express.js | <img src="https://skillicons.dev/icons?i=nodejs"/><br />Node.js|  <img src="https://skillicons.dev/icons?i=c"/><br />C | <img src="https://skillicons.dev/icons?i=cpp"/><br />C++|
 | <img src="https://skillicons.dev/icons?i=git"/> <br />Git |  <img src="https://skillicons.dev/icons?i=github"/> <br />Github|<img src="https://skillicons.dev/icons?i=mongodb"/><br />MongoDB | <img src="https://skillicons.dev/icons?i=mysql"/><br />Mysql| <img src="https://skillicons.dev/icons?i=react"/><br />React.js | <img src="https://skillicons.dev/icons?i=vue"/><br />Vue.js| <img src="https://skillicons.dev/icons?i=vscode"/><br />Vscode| 
 
 <!--
