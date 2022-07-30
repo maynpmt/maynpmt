@@ -11,7 +11,7 @@
 - 💻  Connect with me on LinkedIn
 
 
-### Techologies
+### Technologies
 > Tools, languages, and other things that I like to work with.
 
 
