@@ -2,7 +2,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maynpmt.visitor-badge)
 [![GitHub followers](https://img.shields.io/github/followers/maynpmt.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/maynpmt?tab=followers)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 
 
 
